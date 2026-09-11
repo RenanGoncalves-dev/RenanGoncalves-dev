@@ -38,19 +38,19 @@ Desenvolvedor em formação focado na construção de soluções completas — i
 ###  Experiência Prática — Laboratório Maker & IoT (IFES)
 
 ####  Prototipagem Digital & Impressão 3D
-- **Desenvolvimento de Envoltórios (Cases):** Modelagem e impressão 3D de carcaças sob medida para sistemas de controle de alarme e proteção de motores elétricos.
-- **Integração Física-Eletrônica:** Dimensionamento e tolerância mecânica para montagem de placas, sensores, atuadores e cabeamento interno.
-- **Fabricação Digital:** Manuseio e parametrização de impressoras 3D para otimização de preenchimento (infill), resistência mecânica e acabamento.
+**Desenvolvimento de Envoltórios (Cases):** Modelagem e impressão 3D de carcaças sob medida para sistemas de controle de alarme e proteção de motores elétricos.
+**Integração Física-Eletrônica:** Dimensionamento e tolerância mecânica para montagem de placas, sensores, atuadores e cabeamento interno.
+**Fabricação Digital:** Manuseio e parametrização de impressoras 3D para otimização de preenchimento (infill), resistência mecânica e acabamento.
 
 ####  Internet das Coisas (IoT) & Projetos de Extensão
-- **Sistemas Embarcados:** Programação aplicada a microcontroladores para leitura de sensores e acionamento de atuadores.
-- **Inovação & Extensão:** Participação ativa em projetos acadêmicos e eventos de inovação (Gênesis Caparaó, Startup Day, SEMAGRITECH, ESX).
+**Sistemas Embarcados:** Programação aplicada a microcontroladores para leitura de sensores e acionamento de atuadores.
+**Inovação & Extensão:** Participação ativa em projetos acadêmicos e eventos de inovação (Gênesis Caparaó, Startup Day, SEMAGRITECH, ESX).
 
 ###  Formação Acadêmica
 
-- **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (STADS)**  
-  *Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)*  
-  - Principais disciplinas: Programação Aplicada - IoT, Banco de Dados, Eng. de Software, Dev. Front-End & Back-End, Redes de Computadores.
+ **Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (STADS)**  
+ *Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)*  
+  Principais disciplinas: Programação Aplicada - IoT, Banco de Dados, Eng. de Software, Dev. Front-End & Back-End, Redes de Computadores.
 
 ---
 
@@ -64,9 +64,9 @@ Desenvolvedor em formação focado na construção de soluções completas — i
 
 Developer in training focused on building end-to-end solutions — integrating **software, hardware, and physical modeling**. Active member at the **IFES Maker Space**, developing hands-on projects ranging from 3D-modeled custom enclosures (cases) to programming embedded systems for **Internet of Things (IoT)** and web/mobile development.
 
--  **Current Coursework:** Applied IoT Programming, Back-End Development, and Database Systems II at IFES.
--  **Maker Prototyping:** Hands-on experience in 3D modeling and additive manufacturing for custom alarm control cases, brackets, and motor housing structures.
--  **Interests:** Internet of Things (IoT), Embedded Systems, Web/Mobile Development, and Automation.
+ **Current Coursework:** Applied IoT Programming, Back-End Development, and Database Systems II at IFES.
+ **Maker Prototyping:** Hands-on experience in 3D modeling and additive manufacturing for custom alarm control cases, brackets, and motor housing structures.
+ **Interests:** Internet of Things (IoT), Embedded Systems, Web/Mobile Development, and Automation.
 
 ###  Tech Stack & Skills
 
@@ -88,17 +88,17 @@ Developer in training focused on building end-to-end solutions — integrating *
 ###  Practical Experience — Maker Space & IoT (IFES)
 
 ####  Digital Fabrication & 3D Printing
-- **Custom Enclosures (Cases):** 3D modeling and printing tailor-made housing units for alarm control boards and electric motor protection.
-- **Physical-Electronic Integration:** Mechanical tolerance planning for housing PCBs, sensors, actuators, and internal wiring.
-- **Digital Manufacturing:** Operation and slicer configuration of 3D printers for optimized infill, mechanical strength, and surface finish.
+ **Custom Enclosures (Cases):** 3D modeling and printing tailor-made housing units for alarm control boards and electric motor protection.
+ **Physical-Electronic Integration:** Mechanical tolerance planning for housing PCBs, sensors, actuators, and internal wiring.
+ **Digital Manufacturing:** Operation and slicer configuration of 3D printers for optimized infill, mechanical strength, and surface finish.
 
 ####  Internet of Things (IoT) & Academic Extension
-- **Embedded Systems:** Programming microcontrollers to read sensor data and trigger connected actuators.
-- **Innovation & Community Engagement:** Active participation in regional innovation programs and tech events (Gênesis Caparaó, Startup Day, SEMAGRITECH, ESX).
+ **Embedded Systems:** Programming microcontrollers to read sensor data and trigger connected actuators.
+ **Innovation & Community Engagement:** Active participation in regional innovation programs and tech events (Gênesis Caparaó, Startup Day, SEMAGRITECH, ESX).
 
 ###  Education
 
-- **Associate Degree in Systems Analysis and Development**  
+ **Associate Degree in Systems Analysis and Development**  
   *Federal Institute of Education, Science and Technology of Espírito Santo (IFES)*  
   - Core Subjects: Applied IoT Programming, Database Systems, Software Engineering, Front-End & Back-End Dev, Computer Networks.
 
