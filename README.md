@@ -100,7 +100,7 @@ Developer in training focused on building end-to-end solutions — integrating *
 
  **Associate Degree in Systems Analysis and Development**  
   *Federal Institute of Education, Science and Technology of Espírito Santo (IFES)*  
-  - Core Subjects: Applied IoT Programming, Database Systems, Software Engineering, Front-End & Back-End Dev, Computer Networks.
+   Core Subjects: Applied IoT Programming, Database Systems, Software Engineering, Front-End & Back-End Dev, Computer Networks.
 
 ---
 
