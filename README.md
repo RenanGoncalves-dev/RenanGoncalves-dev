@@ -104,18 +104,6 @@ Participação em evento relacionado à **inovação, tecnologia e desenvolvimen
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGoncalves-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoncalves-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -237,18 +225,6 @@ Participation in a practical workshop focused on **Chatbot creation**, exploring
 ### Gênesis Caparaó
 
 Participation in an event focused on **innovation, technology, and idea development**.
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGoncalves-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoncalves-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
