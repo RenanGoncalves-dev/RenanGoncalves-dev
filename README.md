@@ -67,7 +67,7 @@ Um dos projetos em desenvolvimento utiliza um **ESP32-C3 e um BLE Beacon** para 
 Também desenvolvo protótipos físicos no ambiente Maker do IFES, trabalhando com modelagem e fabricação de peças para projetos eletrônicos.
 
 Entre os trabalhos estão:
-* Cases para componentes eletrônicos;
+* Cases para componentes eletrônicos (como controles de alarme e motores);
 * Suportes para placas e sensores;
 * Estruturas para protótipos;
 * Proteções para motores e componentes;
@@ -92,7 +92,9 @@ Entre os trabalhos estão:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
-#### 🖨️ Ferramentas & Maker
+#### 🖨️ Ferramentas, CAD & Maker
+![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -106,6 +108,24 @@ Entre os trabalhos estão:
 | **📡 BLE Positioning** | IoT / Embarcados | Experimentos com ESP32-C3, BLE Beacons e estimativa de posicionamento por RSSI. |
 | **🖨️ Protótipos Maker** | Hardware / 3D | Desenvolvimento de cases, suportes e estruturas para projetos eletrônicos. |
 | **⚙️ Automação** | IoT | Projetos envolvendo microcontroladores, sensores e atuadores. |
+
+---
+
+### 🚀 Eventos & Extensão
+
+* **ESX (ES Innovation Experience)** — Imersão em Inovação, Tecnologia e Ecossistema Local.
+* **Startup Day** — Evento focado em Empreendedorismo, Conexões e Inovação.
+* **1ª SEMAGRITECH (IFES Alegre)** — Workshop prático de criação de Chatbots (n8n).
+* **Programa Gênesis Caparaó (IFES)** — Evento de lançamento do programa de incubação e prototipagem.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanGoncalves-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoncalves-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="150"/>
+</div>
 
 ---
 
@@ -179,7 +199,7 @@ One of my current projects uses an **ESP32-C3 and a BLE Beacon** to study positi
 I also develop physical prototypes in the IFES Maker environment, working with 3D modeling and fabrication for electronic projects.
 
 Some of my work includes:
-* Electronic enclosures;
+* Electronic enclosures (such as motor and alarm control cases);
 * Board and sensor mounts;
 * Prototype structures;
 * Motor and component protection;
@@ -204,9 +224,20 @@ Some of my work includes:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
-#### 🖨️ Tools & Maker
+#### 🖨️ Tools, CAD & Maker
+![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Events & Extension
+
+* **ESX (ES Innovation Experience)** — Innovation Experience, Tech & Local Ecosystem.
+* **Startup Day** — Event focused on Entrepreneurship, Tech Connections & Innovation.
+* **1st SEMAGRITECH (IFES Alegre)** — Hands-on Chatbot Workshop (n8n).
+* **Gênesis Caparaó Program (IFES)** — Launch event for the incubator & prototyping program.
 
 ---
 
