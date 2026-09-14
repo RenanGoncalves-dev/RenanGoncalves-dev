@@ -180,4 +180,61 @@ One of my current projects uses an **ESP32-C3 and a BLE Beacon** to study positi
 
 #### 🖨️ Maker & 3D Printing
 
-I also develop physical prototypes in the IFES Maker environment, wor
+I also develop physical prototypes in the IFES Maker environment, working with 3D modeling and fabrication for electronic projects.
+
+Some of my work includes:
+
+* Electronic enclosures;
+* Board and sensor mounts;
+* Prototype structures;
+* Motor and component protection;
+* Custom parts for integrating electronics with physical structures.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### 💻 Software & Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+#### 📡 IoT & Hardware
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
+
+#### 🖨️ Tools & Maker
+
+![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+### 📚 Education
+
+**Technology in Systems Analysis and Development (TADS)**
+**Federal Institute of Espírito Santo — IFES**
+
+---
+
+### 📫 Contato / Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/renan-bernardo-589245436/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:renan.goncalves1212@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
