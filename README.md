@@ -22,7 +22,7 @@ Meu foco está principalmente na interseção entre **desenvolvimento de softwar
 
 No ambiente Maker do IFES, trabalho com programação de microcontroladores, sensores, atuadores, modelagem e impressão 3D. Também desenvolvo projetos relacionados à acessibilidade e inclusão, área presente no meu principal projeto acadêmico.
 
-* 🔭 **Foco atual:** Desenvolvimento Web, ESP32, BLE/Beacons, Tecnologia Assistiva e Prototipagem.
+* 🔭 **Foco atual:** Desenvolvimento Web (Front-End & Back-End), ESP32, BLE/Beacons, Tecnologia Assistiva e Prototipagem.
 * 🧪 **Interesses:** IoT, sistemas embarcados, desenvolvimento de software e fabricação digital.
 * 💡 **Abordagem:** Aprender através de projetos, experimentação e resolução de problemas.
 
@@ -81,13 +81,14 @@ Entre os trabalhos estão:
 ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Svelte](https://img.shields.io/badge/-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📡 IoT & Hardware
-![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
@@ -134,7 +135,7 @@ My main areas of interest are **software development, IoT, ESP32, assistive tech
 
 At the IFES Maker environment, I work with microcontroller programming, sensors, actuators, 3D modeling and 3D printing. I also develop projects related to accessibility and inclusion, particularly through my main academic project, **ELOS**.
 
-* 🔭 **Current focus:** Web Development, ESP32, BLE/Beacons, Assistive Technology and Prototyping.
+* 🔭 **Current focus:** Web Development (Front-End & Back-End), ESP32, BLE/Beacons, Assistive Technology and Prototyping.
 * 🧪 **Interests:** IoT, embedded systems, software development and digital fabrication.
 * 💡 **Approach:** Learning through projects, experimentation and problem solving.
 
@@ -193,13 +194,14 @@ Some of my work includes:
 ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Svelte](https://img.shields.io/badge/-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📡 IoT & Hardware
-![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
