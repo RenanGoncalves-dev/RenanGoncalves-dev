@@ -1,242 +1,251 @@
-# Olá, sou o Renan Bernardo Gonçalves 👋
+# 👋 Olá, eu sou Renan Bernardo Gonçalves!
 
-🌐 **[Versão em Português](#-versão-em-português)** | **[English Version](#-english-version)**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (TADS)** no **Instituto Federal do Espírito Santo (IFES)**.
 
----
+💻 Tenho interesse em **desenvolvimento de software, IoT, sistemas embarcados, automação, tecnologia assistiva, prototipagem e fabricação digital**.
 
-## 🇧🇷 Versão em Português
+🧩 Gosto de transformar ideias em projetos práticos, unindo programação, eletrônica e prototipagem.
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (TADS)** no IFES
-💻 **Desenvolvimento de Software** · 📡 **ESP32 & IoT** · 🧩 **Tecnologia Assistiva** · 🖨️ **Prototipagem 3D**
-📍 Espírito Santo, Brasil
-
-> *"Construindo ideias, um protótipo de cada vez."*
+> **Construindo ideias, um protótipo de cada vez.**
 
 ---
 
-### 🚀 Sobre Mim
+## 🚀 Tecnologias
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no Instituto Federal do Espírito Santo (IFES)** e tenho interesse em projetos que conectem software, hardware e problemas do mundo real.
+### 💻 Software & Web
 
-Meu foco está principalmente na interseção entre **desenvolvimento de software, IoT, ESP32, tecnologia assistiva e prototipagem**. Gosto de entender como as diferentes partes de um projeto se relacionam e transformar ideias em soluções que possam ser testadas na prática.
-
-No ambiente Maker do IFES, trabalho com programação de microcontroladores, sensores, atuadores, modelagem e impressão 3D. Também desenvolvo projetos relacionados à acessibilidade e inclusão, área presente no meu principal projeto acadêmico.
-
-* 🔭 **Foco atual:** Desenvolvimento Web, ESP32, BLE/Beacons, Tecnologia Assistiva e Prototipagem.
-* 🧪 **Interesses:** IoT, sistemas embarcados, desenvolvimento de software e fabricação digital.
-* 💡 **Abordagem:** Aprender através de projetos, experimentação e resolução de problemas.
-
----
-
-### 💙 Projeto em Destaque — ELOS
-
-🧩 **ELOS — Ecossistema Lógico Orientado ao Suporte**
-
-O **ELOS** é uma proposta de plataforma voltada à **inclusão e ao suporte escolar de estudantes autistas**, desenvolvida a partir do meu interesse em tecnologia assistiva e acessibilidade.
-
-O projeto explora como informações pedagógicas e comportamentais podem ser organizadas e apresentadas de forma mais **visual, objetiva e acessível**, buscando facilitar a comunicação entre o ambiente escolar, mediadores e familiares.
-
-O ELOS também está relacionado ao meu trabalho acadêmico sobre **usabilidade e suporte visual-digital para crianças com TEA nível 2**.
-
-Entre os principais pontos explorados pelo projeto estão:
-
-* Suporte visual adaptativo;
-* Organização de informações pedagógicas;
-* Comunicação mais acessível entre escola e responsáveis;
-* Apresentação simplificada de informações;
-* Desenvolvimento orientado à acessibilidade.
-
----
-
-### 📡 IoT, ESP32 & Prototipagem Maker
-
-#### 📡 IoT & Sistemas Embarcados
-
-Tenho trabalhado principalmente com **ESP32**, explorando aplicações envolvendo comunicação sem fio, sensores e automação.
-
-Atualmente, meus estudos incluem:
-
-* **ESP32-C3**
-* **Bluetooth Low Energy (BLE)**
-* **BLE Beacons**
-* Medição e filtragem de **RSSI**
-* Sistemas de posicionamento indoor
-* Sensores e atuadores
-* Automação e comunicação entre dispositivos
-
-Um dos projetos em desenvolvimento utiliza um **ESP32-C3 e um BLE Beacon** para estudar estimativas de posicionamento a partir da intensidade do sinal recebido (RSSI).
-
-#### 🖨️ Maker & Impressão 3D
-
-Também desenvolvo protótipos físicos no ambiente Maker do IFES, trabalhando com modelagem e fabricação de peças para projetos eletrônicos.
-
-Entre os trabalhos estão:
-
-* Cases para componentes eletrônicos;
-* Suportes para placas e sensores;
-* Estruturas para protótipos;
-* Proteções para motores e componentes;
-* Peças customizadas para integração entre eletrônica e estruturas físicas.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-#### 💻 Software & Web
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-#### 📡 IoT & Hardware
+### 📡 IoT & Embarcados
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
 
-#### 🖨️ Ferramentas & Maker
+### 🖨️ Ferramentas, CAD & Maker
 
-![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge\&logo=printables\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-### 🧪 Projetos & Experimentos
+## 🧠 Projetos em destaque
 
-| Projeto                  | Área                 | Descrição                                                                       |
-| :----------------------- | :------------------- | :------------------------------------------------------------------------------ |
-| **🧩 ELOS**              | Tecnologia Assistiva | Proposta de plataforma para suporte e inclusão escolar de estudantes autistas.  |
-| **📡 BLE Positioning**   | IoT / Embarcados     | Experimentos com ESP32-C3, BLE Beacons e estimativa de posicionamento por RSSI. |
-| **🖨️ Protótipos Maker** | Hardware / 3D        | Desenvolvimento de cases, suportes e estruturas para projetos eletrônicos.      |
-| **⚙️ Automação**         | IoT                  | Projetos envolvendo microcontroladores, sensores e atuadores.                   |
+### 🧩 ELOS — Ecossistema Lógico Orientado ao Suporte
+
+Projeto voltado à **inclusão e ao suporte educacional**, buscando utilizar tecnologia para auxiliar crianças com necessidades específicas no ambiente educacional.
+
+O projeto envolve conceitos de:
+
+* 🧠 Usabilidade
+* 🎨 Suporte visual-digital
+* 💻 Desenvolvimento de sistemas
+* ♿ Tecnologia assistiva
+* 👩‍🏫 Educação inclusiva
+* 🧩 Experiência do usuário
 
 ---
 
-### 📚 Formação
+### 📡 Sistema de Posicionamento com BLE
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
-**Instituto Federal do Espírito Santo — IFES**
+Projeto utilizando **ESP32-C3 XIAO** e **BLE Beacon** para desenvolver um sistema de posicionamento baseado na intensidade do sinal (**RSSI**).
+
+O projeto envolve:
+
+* 📶 Comunicação Bluetooth Low Energy
+* 📍 Estimativa de posicionamento
+* 📊 Processamento e filtragem de RSSI
+* 🔧 ESP32-C3
+* 🛰️ BLE Beacon
+* 💻 Desenvolvimento de firmware
+
+---
+
+### 🛠️ Projetos Maker
+
+Também desenvolvo projetos envolvendo **prototipagem eletrônica, sensores, atuadores, microcontroladores e fabricação digital**.
+
+Tenho interesse especialmente em transformar conceitos de software em **protótipos físicos funcionais**, combinando programação, eletrônica e modelagem.
+
+---
+
+## 🎓 Eventos e experiências
+
+### ESX — Espírito Santo Innovation Experience
+
+Participação em evento voltado à inovação, empreendedorismo e tecnologia.
+
+### Startup Day
+
+Participação em evento relacionado a **startups, inovação e empreendedorismo tecnológico**.
+
+### 1ª SEMAGRITECH
+
+Participação em workshop prático de criação de **Chatbots**, explorando aplicações de tecnologia e automação.
+
+### Gênesis Caparaó
+
+Participação em evento relacionado à **inovação, tecnologia e desenvolvimento de ideias**.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBernardo&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/renan-bernardo-589245436/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:renan.goncalves1212@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 # 🇺🇸 English Version
 
-## About Me
+# 👋 Hello, I'm Renan Bernardo Gonçalves!
 
-I'm a **Systems Analysis and Development student at the Federal Institute of Espírito Santo (IFES)**, interested in projects that combine software, hardware and real-world applications.
+🎓 I'm a **Systems Analysis and Development (TADS)** student at the **Federal Institute of Espírito Santo (IFES)**.
 
-My main areas of interest are **software development, IoT, ESP32, assistive technology and physical prototyping**. I enjoy understanding how the different parts of a project work together and turning ideas into solutions that can be tested in practice.
+💻 I'm interested in **software development, IoT, embedded systems, automation, assistive technology, prototyping, and digital fabrication**.
 
-At the IFES Maker environment, I work with microcontroller programming, sensors, actuators, 3D modeling and 3D printing. I also develop projects related to accessibility and inclusion, particularly through my main academic project, **ELOS**.
+🧩 I enjoy turning ideas into practical projects by combining programming, electronics, and prototyping.
 
-> *"Building ideas, one prototype at a time."*
-
-* 🔭 **Current focus:** Web Development, ESP32, BLE/Beacons, Assistive Technology and Prototyping.
-* 🧪 **Interests:** IoT, embedded systems, software development and digital fabrication.
-* 💡 **Approach:** Learning through projects, experimentation and problem solving.
+> **Building ideas, one prototype at a time.**
 
 ---
 
-### 💙 Featured Project — ELOS
+## 🚀 Technologies
 
-🧩 **ELOS — Ecossistema Lógico Orientado ao Suporte**
+### 💻 Software & Web
 
-**ELOS** is a proposed platform focused on **educational inclusion and support for autistic students**, developed from my interest in assistive technology and accessibility.
-
-The project explores how educational and behavioral information can be organized and presented in a more **visual, objective and accessible** way, helping improve communication between schools, support staff and families.
-
-ELOS is also related to my academic research on **usability and visual-digital support for children with Level 2 ASD**.
-
-The project explores areas such as:
-
-* Adaptive visual support;
-* Organization of educational information;
-* More accessible communication between schools and families;
-* Simplified presentation of information;
-* Accessibility-oriented development.
-
----
-
-### 📡 IoT, ESP32 & Maker Prototyping
-
-#### 📡 IoT & Embedded Systems
-
-My hardware projects primarily use **ESP32**, with a focus on wireless communication, sensors and automation.
-
-Current areas of exploration include:
-
-* **ESP32-C3**
-* **Bluetooth Low Energy (BLE)**
-* **BLE Beacons**
-* **RSSI** measurement and filtering
-* Indoor positioning systems
-* Sensors and actuators
-* Automation and device communication
-
-One of my current projects uses an **ESP32-C3 and a BLE Beacon** to study positioning estimation based on received signal strength (RSSI).
-
-#### 🖨️ Maker & 3D Printing
-
-I also develop physical prototypes in the IFES Maker environment, working with 3D modeling and fabrication for electronic projects.
-
-Some of my work includes:
-
-* Electronic enclosures;
-* Board and sensor mounts;
-* Prototype structures;
-* Motor and component protection;
-* Custom parts for integrating electronics with physical structures.
-
----
-
-### 🛠️ Technologies & Tools
-
-#### 💻 Software & Web
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-#### 📡 IoT & Hardware
+### 📡 IoT & Embedded Systems
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
 
-#### 🖨️ Tools & Maker
+### 🖨️ Tools, CAD & Maker
 
-![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge\&logo=autodesk\&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF6F00?style=for-the-badge\&logo=printables\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-### 📚 Education
+## 🧠 Featured Projects
 
-**Technology in Systems Analysis and Development (TADS)**
-**Federal Institute of Espírito Santo — IFES**
+### 🧩 ELOS — Ecossistema Lógico Orientado ao Suporte
+
+A project focused on **inclusion and educational support**, using technology to assist children with specific educational needs.
+
+The project involves concepts such as:
+
+* 🧠 Usability
+* 🎨 Digital visual support
+* 💻 Systems development
+* ♿ Assistive technology
+* 👩‍🏫 Inclusive education
+* 🧩 User experience
 
 ---
 
-### 📫 Contato / Contact
+### 📡 BLE Positioning System
+
+A project using an **ESP32-C3 XIAO** and a **BLE Beacon** to develop a positioning system based on signal strength (**RSSI**).
+
+The project involves:
+
+* 📶 Bluetooth Low Energy communication
+* 📍 Position estimation
+* 📊 RSSI processing and filtering
+* 🔧 ESP32-C3
+* 🛰️ BLE Beacon
+* 💻 Firmware development
+
+---
+
+### 🛠️ Maker Projects
+
+I also develop projects involving **electronic prototyping, sensors, actuators, microcontrollers, and digital fabrication**.
+
+I'm particularly interested in transforming software concepts into **functional physical prototypes**, combining programming, electronics, and modeling.
+
+---
+
+## 🎓 Events & Experiences
+
+### ESX — Espírito Santo Innovation Experience
+
+Participation in an event focused on innovation, entrepreneurship, and technology.
+
+### Startup Day
+
+Participation in an event focused on **startups, innovation, and technological entrepreneurship**.
+
+### 1st SEMAGRITECH
+
+Participation in a practical workshop focused on **Chatbot creation**, exploring technology and automation applications.
+
+### Gênesis Caparaó
+
+Participation in an event focused on **innovation, technology, and idea development**.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBernardo&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contact
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/renan-bernardo-589245436/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:renan.goncalves1212@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
