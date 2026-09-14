@@ -4,7 +4,7 @@
 
 💻 Tenho interesse em **desenvolvimento de software, IoT, sistemas embarcados, automação, tecnologia assistiva, prototipagem e fabricação digital**.
 
-🧩 Gosto de transformar ideias em projetos práticos, unindo programação, eletrônica e prototipagem.
+🧩 Gosto de transformar ideias em projetos práticos, unindo **programação, eletrônica e prototipagem**.
 
 > **Construindo ideias, um protótipo de cada vez.**
 
@@ -36,11 +36,11 @@
 
 ---
 
-## 🧠 Projetos em destaque
+## 🧠 Projetos em Destaque
 
 ### 🧩 ELOS — Ecossistema Lógico Orientado ao Suporte
 
-Projeto voltado à **inclusão e ao suporte educacional**, buscando utilizar tecnologia para auxiliar crianças com necessidades específicas no ambiente educacional.
+Projeto voltado à **inclusão e ao suporte educacional**, utilizando tecnologia como ferramenta de apoio para crianças com necessidades específicas no ambiente educacional.
 
 O projeto envolve conceitos de:
 
@@ -59,7 +59,7 @@ Projeto utilizando **ESP32-C3 XIAO** e **BLE Beacon** para desenvolver um sistem
 
 O projeto envolve:
 
-* 📶 Comunicação Bluetooth Low Energy
+* 📶 Bluetooth Low Energy
 * 📍 Estimativa de posicionamento
 * 📊 Processamento e filtragem de RSSI
 * 🔧 ESP32-C3
@@ -70,17 +70,25 @@ O projeto envolve:
 
 ### 🛠️ Projetos Maker
 
-Também desenvolvo projetos envolvendo **prototipagem eletrônica, sensores, atuadores, microcontroladores e fabricação digital**.
+Desenvolvimento de projetos envolvendo:
 
-Tenho interesse especialmente em transformar conceitos de software em **protótipos físicos funcionais**, combinando programação, eletrônica e modelagem.
+* 🔌 Prototipagem eletrônica
+* 📡 Comunicação sem fio
+* 📟 Microcontroladores
+* 📊 Sensores
+* ⚙️ Atuadores
+* 🖨️ Impressão 3D
+* 🧱 Modelagem e fabricação digital
+
+Meu objetivo é transformar conceitos de software em **protótipos físicos funcionais**, combinando programação, eletrônica e fabricação digital.
 
 ---
 
-## 🎓 Eventos e experiências
+## 🎓 Eventos e Experiências
 
 ### ESX — Espírito Santo Innovation Experience
 
-Participação em evento voltado à inovação, empreendedorismo e tecnologia.
+Participação em evento voltado à **inovação, empreendedorismo e tecnologia**.
 
 ### Startup Day
 
@@ -100,9 +108,9 @@ Participação em evento relacionado à **inovação, tecnologia e desenvolvimen
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGoncalves-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBernardo&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoncalves-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -132,7 +140,7 @@ Participação em evento relacionado à **inovação, tecnologia e desenvolvimen
 
 💻 I'm interested in **software development, IoT, embedded systems, automation, assistive technology, prototyping, and digital fabrication**.
 
-🧩 I enjoy turning ideas into practical projects by combining programming, electronics, and prototyping.
+🧩 I enjoy turning ideas into practical projects by combining **programming, electronics, and prototyping**.
 
 > **Building ideas, one prototype at a time.**
 
@@ -168,9 +176,9 @@ Participação em evento relacionado à **inovação, tecnologia e desenvolvimen
 
 ### 🧩 ELOS — Ecossistema Lógico Orientado ao Suporte
 
-A project focused on **inclusion and educational support**, using technology to assist children with specific educational needs.
+A project focused on **inclusion and educational support**, using technology as a tool to assist children with specific educational needs.
 
-The project involves concepts such as:
+The project involves:
 
 * 🧠 Usability
 * 🎨 Digital visual support
@@ -187,7 +195,7 @@ A project using an **ESP32-C3 XIAO** and a **BLE Beacon** to develop a positioni
 
 The project involves:
 
-* 📶 Bluetooth Low Energy communication
+* 📶 Bluetooth Low Energy
 * 📍 Position estimation
 * 📊 RSSI processing and filtering
 * 🔧 ESP32-C3
@@ -198,9 +206,17 @@ The project involves:
 
 ### 🛠️ Maker Projects
 
-I also develop projects involving **electronic prototyping, sensors, actuators, microcontrollers, and digital fabrication**.
+Development of projects involving:
 
-I'm particularly interested in transforming software concepts into **functional physical prototypes**, combining programming, electronics, and modeling.
+* 🔌 Electronic prototyping
+* 📡 Wireless communication
+* 📟 Microcontrollers
+* 📊 Sensors
+* ⚙️ Actuators
+* 🖨️ 3D printing
+* 🧱 Modeling and digital fabrication
+
+My goal is to transform software concepts into **functional physical prototypes**, combining programming, electronics, and digital fabrication.
 
 ---
 
@@ -208,7 +224,7 @@ I'm particularly interested in transforming software concepts into **functional 
 
 ### ESX — Espírito Santo Innovation Experience
 
-Participation in an event focused on innovation, entrepreneurship, and technology.
+Participation in an event focused on **innovation, entrepreneurship, and technology**.
 
 ### Startup Day
 
@@ -228,9 +244,9 @@ Participation in an event focused on **innovation, technology, and idea developm
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanBernardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanGoncalves-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBernardo&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanGoncalves-dev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
