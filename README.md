@@ -6,125 +6,178 @@
 
 ## 🇧🇷 Versão em Português
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas (TADS)** no IFES  
-🛠️ Desenvolvedor de soluções em **Software, Tecnologia Assistiva, IoT e Prototipagem Física**  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (TADS)** no IFES
+💻 **Desenvolvimento de Software** · 📡 **ESP32 & IoT** · 🧩 **Tecnologia Assistiva** · 🖨️ **Prototipagem 3D**
 📍 Espírito Santo, Brasil
+
+*"Transformando ideias em software, protótipos e soluções para problemas reais."*
+
+---
 
 ### 🚀 Sobre Mim
 
-Atuo no desenvolvimento de soluções tecnológicas de impacto social, integrando engenharia de software ao ecossistema físico. Tenho como foco a aplicação da tecnologia voltada à **acessibilidade e inclusão digital**, desenvolvendo sistemas inteligentes para o suporte pedagógico e a autonomia de pessoas neurodivergentes.
+Sou estudante de **Análise e Desenvolvimento de Sistemas no Instituto Federal do Espírito Santo (IFES)** e tenho interesse em projetos que conectem software, hardware e problemas do mundo real.
 
-No **Laboratório Maker do IFES**, integro programação, sistemas embarcados e manufatura aditiva para a concepção de protótipos funcionais direcionados a demandas reais.
+Meu foco está principalmente na interseção entre **desenvolvimento de software, IoT, ESP32, tecnologia assistiva e prototipagem**. Gosto de entender como as diferentes partes de um projeto se relacionam e transformar ideias em soluções que possam ser testadas na prática.
 
-- 💙 **Projeto Principal:** Idealizador da proposta **ELOS** (Ecossistema Lógico Orientado ao Suporte), uma plataforma SaaS voltada para a inclusão escolar e suporte adaptativo a alunos autistas (TEA nível 2).
-- 🔬 **Manufatura & Maker Lab:** Projetando e fabricando cases técnicos em impressão 3D, gabinetes de proteção para motores e suportes para sistemas eletrônicos.
-- 💡 **Áreas de Atuação:** Tecnologia Assistiva, Inclusão Digital, IoT & Automação, Arquitetura de Sistemas SaaS e Prototipagem Física.
+No ambiente Maker do IFES, trabalho com programação de microcontroladores, sensores, atuadores, modelagem e impressão 3D. Também desenvolvo projetos relacionados à acessibilidade e inclusão, área presente no meu principal projeto acadêmico.
+
+* 🔭 **Foco atual:** Desenvolvimento Web, ESP32, BLE/Beacons, Tecnologia Assistiva e Prototipagem.
+* 🧪 **Interesses:** IoT, sistemas embarcados, desenvolvimento de software e fabricação digital.
+* 💡 **Abordagem:** Aprender através de projetos, experimentação e resolução de problemas.
+
+---
+
+### 💙 Projeto em Destaque — ELOS
+
+🧩 **ELOS — Ecossistema Lógico Orientado ao Suporte**
+
+O **ELOS** é uma proposta de plataforma voltada à **inclusão e ao suporte escolar de estudantes autistas**, desenvolvida a partir do meu interesse em tecnologia assistiva e acessibilidade.
+
+O projeto explora como informações pedagógicas e comportamentais podem ser organizadas e apresentadas de forma mais **visual, objetiva e acessível**, buscando facilitar a comunicação entre o ambiente escolar, mediadores e familiares.
+
+O ELOS também está relacionado ao meu trabalho acadêmico sobre **usabilidade e suporte visual-digital para crianças com TEA nível 2**.
+
+Entre os principais pontos explorados pelo projeto estão:
+
+* Suporte visual adaptativo;
+* Organização de informações pedagógicas;
+* Comunicação mais acessível entre escola e responsáveis;
+* Apresentação simplificada de informações;
+* Desenvolvimento orientado à acessibilidade.
+
+---
+
+### 📡 IoT, ESP32 & Prototipagem Maker
+
+#### 📡 IoT & Sistemas Embarcados
+
+Tenho trabalhado principalmente com **ESP32**, explorando aplicações envolvendo comunicação sem fio, sensores e automação.
+
+Atualmente, meus estudos incluem:
+
+* **ESP32-C3**
+* **Bluetooth Low Energy (BLE)**
+* **BLE Beacons**
+* Medição e filtragem de **RSSI**
+* Sistemas de posicionamento indoor
+* Sensores e atuadores
+* Automação e comunicação entre dispositivos
+
+Um dos projetos em desenvolvimento utiliza um **ESP32-C3 e um BLE Beacon** para estudar estimativas de posicionamento a partir da intensidade do sinal recebido (RSSI).
+
+#### 🖨️ Maker & Impressão 3D
+
+Também desenvolvo protótipos físicos no ambiente Maker do IFES, trabalhando com modelagem e fabricação de peças para projetos eletrônicos.
+
+Entre os trabalhos estão:
+
+* Cases para componentes eletrônicos;
+* Suportes para placas e sensores;
+* Estruturas para protótipos;
+* Proteções para motores e componentes;
+* Peças customizadas para integração entre eletrônica e estruturas físicas.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 #### 💻 Software & Web
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 📡 IoT & Prototipagem
-![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![3D Printing](https://img.shields.io/badge/-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
-![n8n](https://img.shields.io/badge/-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
----
+#### 📡 IoT & Hardware
 
-### 🔬 Projetos & Atuação Prática
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
 
-#### 🧩 Tecnologia Assistiva & Impacto Social
-- **ELOS (SaaS de Inclusão Escolar):** Idealização e arquitetura lógica de sistema para suporte audiovisual adaptativo em tempo real e tradutibilidade de relatórios pedagógicos para famílias de estudantes com TEA nível 2.
-- **Inovação Social:** Modelagem de sistemas de informação focados na simplificação de métricas educacionais para apoio direto a cuidadores e mediadores escolares.
+#### 🖨️ Ferramentas & Maker
 
-#### 🖨️ Modelagem & Impressão 3D
-- Modelagem tridimensional e fabricação de cases de proteção para motores, acionadores e centrais de alarme.
-- Calibração e ajuste de parâmetros de impressão (resistência mecânica, tolerância de encaixe e acabamento) para acoplamento de eletrônica e sensores.
-
-#### 📡 IoT & Ecossistema de Inovação
-- Programação de microcontroladores para aquisição de dados de sensores e automação de atuadores.
-- Participação ativa no ecossistema de inovação e empreendedorismo regional (Programa Gênesis Caparaó/FAPES, Startup Day, SEMAGRITECH, ESX).
+![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-### 📚 Formação Acadêmica
+### 🧪 Projetos & Experimentos
 
-- **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
-  *Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)*
-
----
-
-## 🇺🇸 English Version
-
-🎓 **Systems Analysis and Development** student at IFES  
-🛠️ Software, **Assistive Technology, IoT, and Physical Prototyping** Developer  
-📍 Espírito Santo, Brazil
-
-### 🚀 About Me
-
-I focus on developing high-impact technology solutions, bridging software engineering with physical systems. My primary emphasis lies in applying technology toward **accessibility and digital inclusion**, engineering smart systems that foster educational support and autonomy for neurodivergent individuals.
-
-At the **IFES Maker Space**, I combine software development, embedded electronics, and additive manufacturing to design functional prototypes for real-world demands.
-
-- 💙 **Main Project:** Creator of the **ELOS** proposal, a SaaS platform designed for educational inclusion and adaptive support for autistic students (Level 2 ASD).
-- 🔬 **Maker Lab & Hardware:** Designing custom 3D enclosures, motor protection housings, and electronic circuit mounts.
-- 💡 **Fields of Interest:** Assistive Technology, Digital Inclusion, IoT & Automation, SaaS Architecture, and Hardware Prototyping.
+| Projeto                  | Área                 | Descrição                                                                       |
+| :----------------------- | :------------------- | :------------------------------------------------------------------------------ |
+| **🧩 ELOS**              | Tecnologia Assistiva | Proposta de plataforma para suporte e inclusão escolar de estudantes autistas.  |
+| **📡 BLE Positioning**   | IoT / Embarcados     | Experimentos com ESP32-C3, BLE Beacons e estimativa de posicionamento por RSSI. |
+| **🖨️ Protótipos Maker** | Hardware / 3D        | Desenvolvimento de cases, suportes e estruturas para projetos eletrônicos.      |
+| **⚙️ Automação**         | IoT                  | Projetos envolvendo microcontroladores, sensores e atuadores.                   |
 
 ---
 
-### 🛠️ Tech Stack
+### 📚 Formação
 
-#### 💻 Software & Web
-![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 📡 IoT & Prototyping
-![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![3D Printing](https://img.shields.io/badge/-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
-![n8n](https://img.shields.io/badge/-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+**Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
+**Instituto Federal do Espírito Santo — IFES**
 
 ---
 
-### 🔬 Key Experience
+# 🇺🇸 English Version
 
-#### 🧩 Assistive Technology & Social Impact
-- **ELOS (Educational Inclusion SaaS):** System architecture and logic design for real-time adaptive audiovisual prompts and accessible metrics for families of Level 2 ASD students.
-- **Social Innovation:** Engineering data translation tools to bridge the communication gap between educational assistants and families.
+## About Me
 
-#### 🖨️ 3D Modeling & Printing
-- 3D design and fabrication of protective enclosures for motors, controllers, and alarm systems.
-- Fine-tuning 3D printing parameters for structural integrity, precise tolerances, and clean component integration.
+I'm a **Systems Analysis and Development student at the Federal Institute of Espírito Santo (IFES)**, interested in projects that combine software, hardware and real-world applications.
 
-#### 📡 IoT & Innovation Ecosystem
-- Programming microcontrollers for sensor data acquisition and connected actuator control.
-- Active participant in regional startup and tech initiatives (Gênesis Caparaó/FAPES, Startup Day, SEMAGRITECH, ESX).
+My main areas of interest are **software development, IoT, ESP32, assistive technology and physical prototyping**. I enjoy understanding how the different parts of a project work together and turning ideas into solutions that can be tested in practice.
 
----
+At the IFES Maker environment, I work with microcontroller programming, sensors, actuators, 3D modeling and 3D printing. I also develop projects related to accessibility and inclusion, particularly through my main academic project, **ELOS**.
 
-### 📚 Education
-
-- **Technology in Systems Analysis and Development**  
-  *Federal Institute of Espírito Santo (IFES)*
+* 🔭 **Current focus:** Web Development, ESP32, BLE/Beacons, Assistive Technology and Prototyping.
+* 🧪 **Interests:** IoT, embedded systems, software development and digital fabrication.
+* 💡 **Approach:** Learning through projects, experimentation and problem solving.
 
 ---
 
-### 📫 Contato / Contact
+### 💙 Featured Project — ELOS
 
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-bernardo-589245436/)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.goncalves1212@gmail.com)
+🧩 **ELOS — Ecossistema Lógico Orientado ao Suporte**
+
+**ELOS** is a proposed platform focused on **educational inclusion and support for autistic students**, developed from my interest in assistive technology and accessibility.
+
+The project explores how educational and behavioral information can be organized and presented in a more **visual, objective and accessible** way, helping improve communication between schools, support staff and families.
+
+ELOS is also related to my academic research on **usability and visual-digital support for children with Level 2 ASD**.
+
+The project explores areas such as:
+
+* Adaptive visual support;
+* Organization of educational information;
+* More accessible communication between schools and families;
+* Simplified presentation of information;
+* Accessibility-oriented development.
+
+---
+
+### 📡 IoT, ESP32 & Maker Prototyping
+
+#### 📡 IoT & Embedded Systems
+
+My hardware projects primarily use **ESP32**, with a focus on wireless communication, sensors and automation.
+
+Current areas of exploration include:
+
+* **ESP32-C3**
+* **Bluetooth Low Energy (BLE)**
+* **BLE Beacons**
+* **RSSI** measurement and filtering
+* Indoor positioning systems
+* Sensors and actuators
+* Automation and device communication
+
+One of my current projects uses an **ESP32-C3 and a BLE Beacon** to study positioning estimation based on received signal strength (RSSI).
+
+#### 🖨️ Maker & 3D Printing
+
+I also develop physical prototypes in the IFES Maker environment, wor
