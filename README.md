@@ -10,7 +10,7 @@
 💻 **Desenvolvimento de Software** · 📡 **ESP32 & IoT** · 🧩 **Tecnologia Assistiva** · 🖨️ **Prototipagem 3D**
 📍 Espírito Santo, Brasil
 
-*"Transformando ideias em software, protótipos e soluções para problemas reais."*
+> *"Construindo ideias, um protótipo de cada vez."*
 
 ---
 
@@ -133,6 +133,8 @@ I'm a **Systems Analysis and Development student at the Federal Institute of Esp
 My main areas of interest are **software development, IoT, ESP32, assistive technology and physical prototyping**. I enjoy understanding how the different parts of a project work together and turning ideas into solutions that can be tested in practice.
 
 At the IFES Maker environment, I work with microcontroller programming, sensors, actuators, 3D modeling and 3D printing. I also develop projects related to accessibility and inclusion, particularly through my main academic project, **ELOS**.
+
+> *"Building ideas, one prototype at a time."*
 
 * 🔭 **Current focus:** Web Development, ESP32, BLE/Beacons, Assistive Technology and Prototyping.
 * 🧪 **Interests:** IoT, embedded systems, software development and digital fabrication.
