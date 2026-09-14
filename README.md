@@ -6,8 +6,8 @@
 
 ## 🇧🇷 Versão em Português
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (TADS)** no IFES
-💻 **Desenvolvimento de Software** · 📡 **ESP32 & IoT** · 🧩 **Tecnologia Assistiva** · 🖨️ **Prototipagem 3D**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (TADS)** no IFES  
+💻 **Desenvolvimento de Software** · 📡 **ESP32 & IoT** · 🧩 **Tecnologia Assistiva** · 🖨️ **Prototipagem 3D**  
 📍 Espírito Santo, Brasil
 
 > *"Construindo ideias, um protótipo de cada vez."*
@@ -39,7 +39,6 @@ O projeto explora como informações pedagógicas e comportamentais podem ser or
 O ELOS também está relacionado ao meu trabalho acadêmico sobre **usabilidade e suporte visual-digital para crianças com TEA nível 2**.
 
 Entre os principais pontos explorados pelo projeto estão:
-
 * Suporte visual adaptativo;
 * Organização de informações pedagógicas;
 * Comunicação mais acessível entre escola e responsáveis;
@@ -51,11 +50,9 @@ Entre os principais pontos explorados pelo projeto estão:
 ### 📡 IoT, ESP32 & Prototipagem Maker
 
 #### 📡 IoT & Sistemas Embarcados
-
 Tenho trabalhado principalmente com **ESP32**, explorando aplicações envolvendo comunicação sem fio, sensores e automação.
 
 Atualmente, meus estudos incluem:
-
 * **ESP32-C3**
 * **Bluetooth Low Energy (BLE)**
 * **BLE Beacons**
@@ -67,11 +64,9 @@ Atualmente, meus estudos incluem:
 Um dos projetos em desenvolvimento utiliza um **ESP32-C3 e um BLE Beacon** para estudar estimativas de posicionamento a partir da intensidade do sinal recebido (RSSI).
 
 #### 🖨️ Maker & Impressão 3D
-
 Também desenvolvo protótipos físicos no ambiente Maker do IFES, trabalhando com modelagem e fabricação de peças para projetos eletrônicos.
 
 Entre os trabalhos estão:
-
 * Cases para componentes eletrônicos;
 * Suportes para placas e sensores;
 * Estruturas para protótipos;
@@ -83,58 +78,61 @@ Entre os trabalhos estão:
 ### 🛠️ Tecnologias & Ferramentas
 
 #### 💻 Software & Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 📡 IoT & Hardware
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 #### 🖨️ Ferramentas & Maker
-
-![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![3D Printing](https://img.shields.io/badge/-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🧪 Projetos & Experimentos
 
-| Projeto                  | Área                 | Descrição                                                                       |
-| :----------------------- | :------------------- | :------------------------------------------------------------------------------ |
-| **🧩 ELOS**              | Tecnologia Assistiva | Proposta de plataforma para suporte e inclusão escolar de estudantes autistas.  |
-| **📡 BLE Positioning**   | IoT / Embarcados     | Experimentos com ESP32-C3, BLE Beacons e estimativa de posicionamento por RSSI. |
-| **🖨️ Protótipos Maker** | Hardware / 3D        | Desenvolvimento de cases, suportes e estruturas para projetos eletrônicos.      |
-| **⚙️ Automação**         | IoT                  | Projetos envolvendo microcontroladores, sensores e atuadores.                   |
+| Projeto | Área | Descrição |
+| :--- | :--- | :--- |
+| **🧩 ELOS** | Tecnologia Assistiva | Proposta de plataforma para suporte e inclusão escolar de estudantes autistas. |
+| **📡 BLE Positioning** | IoT / Embarcados | Experimentos com ESP32-C3, BLE Beacons e estimativa de posicionamento por RSSI. |
+| **🖨️ Protótipos Maker** | Hardware / 3D | Desenvolvimento de cases, suportes e estruturas para projetos eletrônicos. |
+| **⚙️ Automação** | IoT | Projetos envolvendo microcontroladores, sensores e atuadores. |
 
 ---
 
 ### 📚 Formação
 
-**Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**
-**Instituto Federal do Espírito Santo — IFES**
+* **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)**  
+  *Instituto Federal do Espírito Santo — IFES*
 
 ---
 
-# 🇺🇸 English Version
+## 🇺🇸 English Version
 
-## About Me
+🎓 **Systems Analysis and Development Student (TADS)** @ IFES  
+💻 **Software Development** · 📡 **ESP32 & IoT** · 🧩 **Assistive Technology** · 🖨️ **3D Prototyping**  
+📍 Espírito Santo, Brazil
+
+> *"Building ideas, one prototype at a time."*
+
+---
+
+### 🚀 About Me
 
 I'm a **Systems Analysis and Development student at the Federal Institute of Espírito Santo (IFES)**, interested in projects that combine software, hardware and real-world applications.
 
 My main areas of interest are **software development, IoT, ESP32, assistive technology and physical prototyping**. I enjoy understanding how the different parts of a project work together and turning ideas into solutions that can be tested in practice.
 
 At the IFES Maker environment, I work with microcontroller programming, sensors, actuators, 3D modeling and 3D printing. I also develop projects related to accessibility and inclusion, particularly through my main academic project, **ELOS**.
-
-> *"Building ideas, one prototype at a time."*
 
 * 🔭 **Current focus:** Web Development, ESP32, BLE/Beacons, Assistive Technology and Prototyping.
 * 🧪 **Interests:** IoT, embedded systems, software development and digital fabrication.
@@ -153,7 +151,6 @@ The project explores how educational and behavioral information can be organized
 ELOS is also related to my academic research on **usability and visual-digital support for children with Level 2 ASD**.
 
 The project explores areas such as:
-
 * Adaptive visual support;
 * Organization of educational information;
 * More accessible communication between schools and families;
@@ -165,11 +162,9 @@ The project explores areas such as:
 ### 📡 IoT, ESP32 & Maker Prototyping
 
 #### 📡 IoT & Embedded Systems
-
 My hardware projects primarily use **ESP32**, with a focus on wireless communication, sensors and automation.
 
 Current areas of exploration include:
-
 * **ESP32-C3**
 * **Bluetooth Low Energy (BLE)**
 * **BLE Beacons**
@@ -181,11 +176,9 @@ Current areas of exploration include:
 One of my current projects uses an **ESP32-C3 and a BLE Beacon** to study positioning estimation based on received signal strength (RSSI).
 
 #### 🖨️ Maker & 3D Printing
-
 I also develop physical prototypes in the IFES Maker environment, working with 3D modeling and fabrication for electronic projects.
 
 Some of my work includes:
-
 * Electronic enclosures;
 * Board and sensor mounts;
 * Prototype structures;
@@ -197,33 +190,30 @@ Some of my work includes:
 ### 🛠️ Technologies & Tools
 
 #### 💻 Software & Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge\&logo=svelte\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 📡 IoT & Hardware
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge\&logo=bluetooth\&logoColor=white)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 #### 🖨️ Tools & Maker
-
-![3D Printing](https://img.shields.io/badge/3D_Printing-0288D1?style=for-the-badge\&logo=ultimaker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![3D Printing](https://img.shields.io/badge/-0288D1?style=for-the-badge&logo=ultimaker&logoColor=white)
+![Git](https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📚 Education
 
-**Technology in Systems Analysis and Development (TADS)**
-**Federal Institute of Espírito Santo — IFES**
+* **Associate Degree in Systems Analysis and Development**  
+  *Federal Institute of Education, Science and Technology of Espírito Santo — IFES*
 
 ---
 
@@ -231,12 +221,7 @@ Some of my work includes:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/renan-bernardo-589245436/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:renan.goncalves1212@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-bernardo-589245436/)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.goncalves1212@gmail.com)
 
 </div>
